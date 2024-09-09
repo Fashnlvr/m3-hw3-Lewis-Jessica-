@@ -1,3 +1,4 @@
 # Assignment 3
 ## Images
-#[Lighthouse report for assignment 3] ![Uploading Screenshot 2024-09-08 at 8.38.36 PM.png…]()
+#[Lighthouse report for assignment 3] (file:///Users/jessica.anne/Desktop/Screenshot%202024-09-08%20at%208.38.27%E2%80%AFPM.png)
+#[Lighthouse report for assignment 3] (file:///Users/jessica.anne/Desktop/Screenshot%202024-09-08%20at%208.38.36%E2%80%AFPM.png)
