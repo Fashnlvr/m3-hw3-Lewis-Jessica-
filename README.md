@@ -1,6 +1,6 @@
 # Assignment 3
 ## Images
-#[Lighthouse report for assignment 3] (https://1drv.ms/w/s!AiRhc9K4UVLYs3MQ1xLcaXeYdGK6?e=IwI4nk)
+# [Lighthouse report for assignment 3] (https://1drv.ms/w/s!AiRhc9K4UVLYs3MQ1xLcaXeYdGK6?e=IwI4nk)
 
 ## Resources
 * [] ()
